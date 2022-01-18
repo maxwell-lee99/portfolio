@@ -1,0 +1,1 @@
+These are three attempts at creating a recommendation algorithm for the Yelp review dataset. There is an Item Based CF recommender, a model based recommender using XGBoost, and a hybrid that combines the two results and weighs each result based on how many shared items were in the item based recommender.
