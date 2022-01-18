@@ -1,0 +1,1 @@
+This is the solution to part 1 of the assignment description. We were tasked to find all common pairs of users and businesses using locality sensitive hashing. 
