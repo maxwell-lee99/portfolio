@@ -1,0 +1,1 @@
+The purpose of this assignement was to create community detection based on the Yelp dataset. The graph is constructed by creating an edge between two users if the number of common businesses they reviewed is greater than the filter threshold. From there, the betweenness is calculated and communities are created based on the modularity partitioning.
