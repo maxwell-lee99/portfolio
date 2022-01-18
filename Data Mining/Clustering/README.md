@@ -1,0 +1,1 @@
+This assignment was to implement the BFR algorithm to cluster points with ~20 dimensions.
