@@ -1,0 +1,1 @@
+The purpose of this assignment was to be able to manipulate and search through XML data by creating indices that allowed for more optimized search.
