@@ -1,0 +1,1 @@
+The work in this folder is done for USC's DSCI 552 Machine Learning for Data Science. Included in this folder are the six primary assignments that required us to implement a different type of machine learning and write an associated academic write up about our process.
