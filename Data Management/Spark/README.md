@@ -1,0 +1,1 @@
+The purpose of this assignment was to be able to perform basic operations using PySpark's DataFrames and RDDs.
