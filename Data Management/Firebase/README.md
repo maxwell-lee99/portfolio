@@ -1,0 +1,1 @@
+The purpose of this assignment was to create a collection of scripts that could load data into a Firebase database, then query that data and perform transformations.

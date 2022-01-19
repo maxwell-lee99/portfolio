@@ -1,0 +1,1 @@
+This contains work done for USC's DSCI 551 Foundations of Data Management. The course focused primarily on how to obtain and store data in an intelligent manner. A selection of the assignments in the course is provided here.
