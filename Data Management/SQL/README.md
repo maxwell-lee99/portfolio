@@ -1,0 +1,1 @@
+The purpose of this assignment was to be able to create tables in a MySQL database, import data to those tables, and perform queries on that database.
